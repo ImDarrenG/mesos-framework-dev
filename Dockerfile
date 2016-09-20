@@ -1,3 +1,9 @@
+# VERSION 0.28.1
+# AUTHOR: Darren G
+# DESCRIPTION: Mesos framework developer image
+# BUILD: docker build --rm -t imdarreng/mesos-framework-dev
+# SOURCE: https://github.com/ImDarrenG/mesos-framework-dev
+
 # based on:
 # https://github.com/mesosphere/docker-containers/tree/master/mesos-modules-dev
 
